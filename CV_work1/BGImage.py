@@ -16,6 +16,7 @@ while True:
         fgmask = mog.apply(image)
         ret, binary = cv.threshold(fgmask, 220, 255, cv.THRESH_BINARY)
         binary = cv.morphologyEx(binary, cv.MORPH_OPEN, se)
+        
         bgimage = mog.getBackgroundImage()
         #save backgroud image
         cv.imwrite("bgimage.jpg",bgimage)
