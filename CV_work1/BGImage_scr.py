@@ -73,6 +73,5 @@ def video2frame(video_src_path, formats, frame_save_path, frame_width, frame_hei
 
     cap.release()
 
-
 if __name__ == '__main__':
     video2frame(videos_src_path, video_formats, frames_save_path, width, height, time_interval)
