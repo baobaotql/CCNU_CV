@@ -11,7 +11,6 @@ img = cv2.imread("../CV_work1/test3/465.jpg")
     #(x=140,y=90)
 
 
-
 def on_EVENT_LBUTTONDOWN(event, x, y, flags, param):
     if event == cv2.EVENT_LBUTTONDOWN:
         xy = "%d,%d" % (x, y)
