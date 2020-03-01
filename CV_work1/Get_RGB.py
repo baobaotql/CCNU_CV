@@ -5,7 +5,6 @@
 # @File : Get_RGB.py 
 # @Software: PyCharm
 
-
 import os
 import cv2
 import matplotlib
