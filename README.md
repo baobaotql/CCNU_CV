@@ -1,6 +1,6 @@
 # CCNU_CV
 ## CCNU CV Course Work1  
-**工程文件结构说明  
+**工程文件结构说明**    
 + **beta1.0&emsp; version 1**  
     + test1.avi &emsp;测试视频1  
     + test2.avi &emsp;测试视频2   
