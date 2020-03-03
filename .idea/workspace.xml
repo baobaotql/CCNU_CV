@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7875b774-6f47-42a9-bcf1-79961cbcc838" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/CV_work1/beta2.0/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CV_work1/BGImage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV_work1/BGImage_scr.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CV_work1/Get_RGB.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CV_work1/bgimage.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CV_work1/click.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_work1/get_scr.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CV_work1/test1.avi" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CV_work1/test1/0.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CV_work1/test1/1.jpg" beforeDir="false" />
@@ -3037,8 +3036,8 @@
         <entry file="file://$PROJECT_DIR$/CV_work1/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="435">
-                <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+              <first_editor relative-caret-position="248">
+                <caret line="46" lean-forward="true" selection-end-line="51" />
               </first_editor>
               <second_editor />
             </state>
@@ -3326,11 +3325,11 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329539" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.051282052" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5060729" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.329539" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.329539" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991511" visible="true" weight="0.12587413" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991511" visible="true" weight="0.12587413" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.3291506" />
       <window_info anchor="right" id="SciView" order="3" weight="0.82625484" />
@@ -3476,8 +3475,8 @@
     <entry file="file://$PROJECT_DIR$/CV_work1/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="435">
-            <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+          <first_editor relative-caret-position="248">
+            <caret line="46" lean-forward="true" selection-end-line="51" />
           </first_editor>
           <second_editor />
         </state>
