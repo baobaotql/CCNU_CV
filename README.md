@@ -1,7 +1,7 @@
 # CCNU_CV
 ## CCNU CV Course Work1  
-工程文件结构说明  
-+ beta1.0&emsp; version 1
+**工程文件结构说明  
++ **beta1.0&emsp; version 1**  
     + test1.avi &emsp;测试视频1  
     + test2.avi &emsp;测试视频2   
     + test3.avi &emsp;测试视频3    
@@ -18,7 +18,7 @@
 版本一实现了视频帧图片的获取，然后实现任取背景一点可生成该点RGB概率分布直方图   
 
 /********************************/
-+ beta2.0&emsp; version 2 
++ **beta2.0&emsp; version 2**  
     - main.py &emsp;主功能函数
     - 文件夹/test1  &emsp;获取视频1的帧图像  
     - 文件夹/test2  &emsp;获取视频2的帧图像  
