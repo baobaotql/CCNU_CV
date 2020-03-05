@@ -27,7 +27,7 @@
 
 运行主程序，输入待分析视频（无需添加视频后缀）
 
-![avatar](https://github.com/baobaotql/CCNU_CV/blob/master/CV_work1/instruction/1.png)    
+![image](https://github.com/baobaotql/CCNU_CV/blob/master/CV_work1/instruction/1.png)    
 
 程序运行中会截取视频帧图片，然后保存在相应的文件夹中 
  
