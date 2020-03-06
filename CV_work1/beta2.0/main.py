@@ -4,11 +4,7 @@
 # @Mail : baobaotql@163.com 
 # @File : main.py 
 # @Software: PyCharm
-# ！/user/bin/env python
-# -*- coding:utf-8 -*-
-# @Time  : 2020/3/1 11:30
-# @Author: 郑超
-# @File  : statistical_histogram
+
 
 import os
 import cv2 as cv
