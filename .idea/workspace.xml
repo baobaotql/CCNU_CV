@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7875b774-6f47-42a9-bcf1-79961cbcc838" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_work1/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_work1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV_work1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CV_work1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV_work2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CV_work2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,72 +36,32 @@
     <expand />
     <select />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-            <file leaf-file-name="get_scr.py" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/CV_work1/beta1.0/get_scr.py">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="198">
-                    <caret line="11" selection-start-line="11" selection-end-line="34" selection-end-column="16" />
-                    <folding>
-                      <element signature="e#153#162#0" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CV_work1/beta2.0/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="93" column="17" selection-start-line="93" selection-start-column="17" selection-end-line="93" selection-end-column="17" />
-              <folding>
-                <element signature="e#260#269#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1620">
+              <caret line="93" column="12" selection-start-line="93" selection-start-column="12" selection-end-line="93" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="Readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="563">
-                <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+              <first_editor relative-caret-position="1188">
+                <caret line="66" column="55" selection-start-line="66" selection-start-column="55" selection-end-line="66" selection-end-column="55" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="5.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CV_work1/instruction/5.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="4.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CV_work1/instruction/4.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="6.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CV_work1/instruction/6.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="3.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CV_work1/instruction/3.png">
-          <provider selected="true" editor-type-id="images" />
+      <file leaf-file-name="video_detector.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CV_work2/video_detector/video_detector.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="mian.py" pinned="false" current-in-tab="false">
@@ -159,6 +118,7 @@
         <option value="$PROJECT_DIR$/CV_work1/beta2.0/main.py" />
         <option value="$PROJECT_DIR$/CV_work1/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Readme.md" />
       </list>
     </option>
   </component>
@@ -169,10 +129,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="423" />
-    <option name="y" value="77" />
-    <option name="width" value="1097" />
-    <option name="height" value="1897" />
+    <option name="x" value="-1088" />
+    <option name="y" value="-8" />
+    <option name="width" value="1096" />
+    <option name="height" value="1896" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -187,6 +147,11 @@
             <path>
               <item name="CCNU_CV" type="b2602c69:ProjectViewProjectNode" />
               <item name="CCNU_CV" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CCNU_CV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCNU_CV" type="462c0819:PsiDirectoryNode" />
+              <item name="CV_work2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -354,7 +319,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="-7" width="1488" height="878" extended-state="6" />
+    <frame x="-1088" y="-8" width="1096" height="1896" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329539" />
@@ -364,7 +329,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.329539" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.329539" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991511" visible="true" weight="0.12587413" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991511" visible="true" weight="0.12837838" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.3291506" />
       <window_info anchor="right" id="SciView" order="3" weight="0.82625484" />
@@ -402,15 +367,50 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CV_work1/beta2.0/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1296">
-          <caret line="72" selection-start-line="72" selection-end-line="72" />
-          <folding>
-            <element signature="e#260#269#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1620">
+          <caret line="93" column="12" lean-forward="true" selection-start-line="93" selection-start-column="12" selection-end-line="93" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/CV_work1/beta1.0/mian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CV_work1/beta1.0/click.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CV_work1/beta1.0/BGImage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="918">
+            <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CV_work1/beta2.0/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="432">
@@ -441,11 +441,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/Readme.md" />
     <entry file="file://$PROJECT_DIR$/CV_work1/get_scr.py" />
     <entry file="file://$PROJECT_DIR$/CV_work1/Get_RGB.py" />
-    <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/Readme.md" />
+    <entry file="file://$PROJECT_DIR$/Readme.md" />
     <entry file="file://$PROJECT_DIR$/CV_work1/Get_RGB.py" />
     <entry file="file://$PROJECT_DIR$/CV_work1/BGImage.py" />
     <entry file="file://$PROJECT_DIR$/CV_work1/click.py" />
@@ -472,6 +472,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CV_work1/beta2.0/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="93" column="12" selection-start-line="93" selection-start-column="12" selection-end-line="93" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CV_work1/beta1.0/get_scr.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -482,36 +489,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CV_work1/instruction/1.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/CV_work2/video_detector/video_detector.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/CV_work1/instruction/6.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CV_work1/instruction/4.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CV_work1/instruction/5.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CV_work1/instruction/3.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CV_work1/beta2.0/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="93" column="17" selection-start-line="93" selection-start-column="17" selection-end-line="93" selection-end-column="17" />
-          <folding>
-            <element signature="e#260#269#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/Readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="563">
-            <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          <first_editor relative-caret-position="1188">
+            <caret line="66" column="55" selection-start-line="66" selection-start-column="55" selection-end-line="66" selection-end-column="55" />
           </first_editor>
           <second_editor />
         </state>
