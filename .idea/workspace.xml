@@ -4,10 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/CV_work1/beta2.0/main.py" line="57" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7875b774-6f47-42a9-bcf1-79961cbcc838" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/CV_work1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CV_work1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_work2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CV_work2/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7875b774-6f47-42a9-bcf1-79961cbcc838" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,16 +44,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Readme.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Readme.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1188">
-                <caret line="66" column="55" selection-start-line="66" selection-start-column="55" selection-end-line="66" selection-end-column="55" />
+              <first_editor relative-caret-position="1350">
+                <caret line="75" column="4" lean-forward="true" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CV_work2/instruction/2.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="1.jpg" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CV_work2/instruction/1.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file leaf-file-name="video_detector.py" pinned="false" current-in-tab="false">
@@ -128,7 +135,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-1088" />
     <option name="y" value="-8" />
     <option name="width" value="1096" />
@@ -152,6 +159,12 @@
               <item name="CCNU_CV" type="b2602c69:ProjectViewProjectNode" />
               <item name="CCNU_CV" type="462c0819:PsiDirectoryNode" />
               <item name="CV_work2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CCNU_CV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCNU_CV" type="462c0819:PsiDirectoryNode" />
+              <item name="CV_work2" type="462c0819:PsiDirectoryNode" />
+              <item name="instruction" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -495,12 +508,18 @@
     <entry file="file://$PROJECT_DIR$/Readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1188">
-            <caret line="66" column="55" selection-start-line="66" selection-start-column="55" selection-end-line="66" selection-end-column="55" />
+          <first_editor relative-caret-position="1350">
+            <caret line="75" column="4" lean-forward="true" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CV_work2/instruction/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CV_work2/instruction/1.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
