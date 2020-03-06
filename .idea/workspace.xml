@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/CV_work1/beta2.0/main.py" line="57" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7875b774-6f47-42a9-bcf1-79961cbcc838" name="Default" comment="" />
+    <list default="true" id="7875b774-6f47-42a9-bcf1-79961cbcc838" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/CV_work2/image_detector/image_detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/CV_work2/image_detector/image_detector.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,27 +50,26 @@
         <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1350">
-                <caret line="75" column="4" lean-forward="true" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="4" />
+              <first_editor relative-caret-position="720">
+                <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CV_work2/instruction/2.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="1.jpg" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CV_work2/instruction/1.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
       <file leaf-file-name="video_detector.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CV_work2/video_detector/video_detector.py">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="image_detector.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CV_work2/image_detector/image_detector.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="mian.py" pinned="false" current-in-tab="false">
@@ -126,6 +127,7 @@
         <option value="$PROJECT_DIR$/CV_work1/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Readme.md" />
+        <option value="$PROJECT_DIR$/CV_work2/image_detector/image_detector.py" />
       </list>
     </option>
   </component>
@@ -164,7 +166,7 @@
               <item name="CCNU_CV" type="b2602c69:ProjectViewProjectNode" />
               <item name="CCNU_CV" type="462c0819:PsiDirectoryNode" />
               <item name="CV_work2" type="462c0819:PsiDirectoryNode" />
-              <item name="instruction" type="462c0819:PsiDirectoryNode" />
+              <item name="image_detector" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -332,7 +334,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1088" y="-8" width="1096" height="1896" extended-state="6" />
+    <frame x="-1088" y="-8" width="1096" height="1896" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329539" />
@@ -502,24 +504,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CV_work2/video_detector/video_detector.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/CV_work2/instruction/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CV_work2/instruction/2.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1350">
-            <caret line="75" column="4" lean-forward="true" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="4" />
+          <first_editor relative-caret-position="720">
+            <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CV_work2/instruction/2.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/CV_work2/video_detector/video_detector.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/CV_work2/instruction/1.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/CV_work2/image_detector/image_detector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
