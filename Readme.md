@@ -49,7 +49,7 @@
 
 ![image](https://github.com/baobaotql/CCNU_CV/blob/master/CV_work1/instruction/7.png)    
 
-##CCNU CV Course Work2  
+## CCNU CV Course Work2  
 **工程文件说明**
 + **image_detector**  &emsp;图像人脸识别  
     + image_detector.py  &emsp;功能主函数   
