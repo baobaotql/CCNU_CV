@@ -26,7 +26,7 @@
     - 文件夹/test3  &emsp;获取视频3的帧图像  
     - 文件夹/test4  &emsp;获取视频4的帧图像  
 
-运行主程序，输入待分析视频（无需添加视频后缀）
+运行主程序，输入待分析视频（无需添加视频后缀），双击图片获取对应坐标的rgb分布
 
 ![image](https://github.com/baobaotql/CCNU_CV/blob/master/CV_work1/instruction/1.png)    
 

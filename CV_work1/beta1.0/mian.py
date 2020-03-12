@@ -12,7 +12,7 @@ from matplotlib import pyplot as plt
 import matplotlib.mlab as mlab
 import numpy as np
 
-path = '../CV_work1/beta1.0/test3/'
+path = 'D:/github_baobaotql/CCNU_CV/CV_work1/beta1.0/test3/'
 
 #读取path文件夹下所有文件的名字
 bgimagelist = os.listdir(path)
@@ -29,7 +29,7 @@ for imgname in bgimagelist:
         #测试
         #print(imgname)
         #测试并检查图片
-        img = cv2.imread('../CV_work1/beta1.0/test3/'+imgname)
+        img = cv2.imread('D:/github_baobaotql/CCNU_CV/CV_work1/beta1.0/test3/'+imgname)
         #print(img.shape)
 
         value_b = img[160,130,0]
@@ -43,26 +43,7 @@ print(list_b)
 print(list_g)
 print(list_r)
 
-# def draw_hist(myList,Title,Xlabel,Ylabel,Xmin,Xmax,Ymin,Ymax):
-#     '''
-#
-#     :param myList:  list
-#     :param Title:   抬头
-#     :param Xlabel:  X轴
-#     :param Ylabel:  Y轴
-#     :param Xmin:    XY轴的范围
-#     :param Xmax:
-#     :param Ymin:
-#     :param Ymax:
-#     :return:
-#     '''
-#     plt.hist(myList,100)
-#     plt.xlabel(Xlabel)
-#     plt.xlim(Xmin,Xmax)
-#     plt.ylabel(Ylabel)
-#     plt.ylim(Ymin,Ymax)
-#     plt.title(Title)
-#     plt.show()
+
 def draw_hist(list_b, list_g, list_r):
     plt.subplot(311)
     plt.hist(list_b, 256, [0, 256], label='RGB—B', color='b')

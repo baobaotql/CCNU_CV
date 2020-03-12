@@ -67,6 +67,7 @@ if __name__ == "__main__":
             #测试打印
             print(outPutDirName + str(times) + '.jpg')
     print('帧图片提取结束')
+    print('双击图片获得图片对应坐标的rgb统计分布')
 
     camera = cv.VideoCapture(video_add_path)
     times = 0
