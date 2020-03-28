@@ -105,19 +105,24 @@
 
 用OpenCv写出MeanShift目标跟踪算法，并跟踪自己的脸  
 
+
+
 **工程文件说明**   
 
 + meanshift_test.py   &emsp;meanshift算法进行人脸检测   
-
 + test1.avi    &emsp;测试视频   
-
 + screencap.mp4    &emsp;录屏  
++ 0.jpg   &emsp; 随机截取帧图片     
 
-+ 0.jpg   &emsp; 随机截取帧图片  
 
-  
 
-目标跟踪结果：  
+运行后按<u>Ctrl + 任意字母键or数字键</u>可以逐帧观察视频中帧图片中的检测结果
+
+<u>Ctrl+s即保存该帧图片</u>（单独字母键or数字键即自动保存当前帧图片为该字母or数字名称的jpg文件，可覆盖）
+
+
+
+**目标跟踪结果：**  
 
 ![image](https://github.com/baobaotql/CCNU_CV/blob/master/CV_work3/0.jpg)   
 
