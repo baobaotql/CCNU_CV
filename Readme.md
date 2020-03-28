@@ -8,9 +8,9 @@
 
 （1）源代码（一附件提交。）；     
 
-（2）至少一个坐标上的背景像素点的概率分布图。  
+（2）至少一个坐标上的背景像素点的概率分布图。    
 
-
+<br></br>  
 
 **工程文件结构说明**    
 
@@ -69,7 +69,7 @@
 
 自拍一张照片，并使用OpenCv进行人脸检测。  
 
-
+<br></br>  
 
 **工程文件说明**
 
@@ -105,7 +105,7 @@
 
 用OpenCv写出MeanShift目标跟踪算法，并跟踪自己的脸  
 
-
+<br></br>  
 
 **工程文件说明**   
 
@@ -115,17 +115,13 @@
 + screencap.mp4    &emsp;录屏  
 + 0.jpg   &emsp; 随机截取帧图片       
 
-
-
-
+<br></br>  
 
 meanshift_test.py&&camshift_test.py 运行后  按<u>Ctrl + 任意字母键or数字键</u>可以逐帧观察视频中帧图片中的检测结果
 
 <u>Ctrl+s即保存该帧图片</u>（单独字母键or数字键即自动保存当前帧图片为该字母or数字名称的jpg文件，可覆盖） 
 
-
-
-
+<br></br>  
 
 **MeanShift分析**  
 
@@ -150,11 +146,8 @@ MeanShift算法用于视频目标跟踪时，其实就是采用目标的颜色�
   + 将传统MeanShift算法中的核函数固定带宽改为动态变化的带宽；  
   + 采用一定的方式对整体模板进行学习和更新；    
 
-  
-  
-    
-  
-  
+
+<br></br>  
 
 **CamShift分析**   
 
@@ -168,15 +161,13 @@ CamShift算法，全称是 Continuously AdaptiveMeanShift，顾名思义，它�
   + CamShift 算法中没有定义候选目标，直接利用目标模板进行跟踪。
   + CamShift 算法采用 HSV 色彩空间的H分量建立目标直方图模型，仍然只是依据目标的色彩信息来进行跟踪，当目标与背景颜色接近或者被其他物体遮挡时，CamShift 会自动将其包括在内，导致跟踪窗口扩大，有时甚至会将跟踪窗口扩大到整个视频大小，导致目标定位的不准确，连续跟踪下去造成目标的丢失。  
 
-  
-
-
+  <br></br>  
 
 **MeanShift目标跟踪结果：**  
 
 ![image](https://github.com/baobaotql/CCNU_CV/blob/master/CV_work3/0.jpg)   
 
-
+<br></br>  
 
 **camShift目标跟踪结果：**
 
