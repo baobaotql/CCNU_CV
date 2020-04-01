@@ -1,4 +1,9 @@
 # CCNU_CV
+
+源：https://github.com/baobaotql/CCNU_CV     
+
+
+
 ## CCNU CV Course Work1  
 **作业说明**  
 
@@ -178,8 +183,8 @@ CamShift算法，全称是 Continuously AdaptiveMeanShift，顾名思义，它�
 
 **MeanShift重写跟踪结果**
 
-*暂时有跟踪框越界报错*
+*暂时有跟踪框越界报错*    
 
-
+<br></br>
 
 <u>【注】：readme插图用的是网络插图法（比较依赖网络通常），如果不能正常浏览，进入instruction文件夹即可正常浏览插图。</u>    
