@@ -114,6 +114,7 @@
 + test1.avi    &emsp;测试视频   
 + screencap.mp4    &emsp;录屏  
 + 0.jpg   &emsp; 随机截取帧图片       
++ **<u>meanshift.py   &emsp;重写公式</u>**
 
 <br></br>  
 
@@ -169,9 +170,15 @@ CamShift算法，全称是 Continuously AdaptiveMeanShift，顾名思义，它�
 
 <br></br>  
 
-**camShift目标跟踪结果：**
+**CamShift目标跟踪结果：**
 
 ![image](https://github.com/baobaotql/CCNU_CV/blob/master/CV_work3/camshift.jpg)   
+
+<br></br>
+
+**MeanShift重写跟踪结果**
+
+*暂时有跟踪框越界报错*
 
 
 
